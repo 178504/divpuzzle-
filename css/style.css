@@ -4,6 +4,7 @@ body{
 
 .wrapper{
   width: 400px;
+  height: 450px;
   margin: 0 auto;
 }
 
@@ -45,14 +46,13 @@ body{
   width: 100px;
   height: 150px;
   background-color: #ff9e6b;
-  float: right;
+  float: left;
 }
 
 .box6{
   width: 250px;
   height: 100px;
   background-color: #8c2727;
-  float: right;
 }
 
 .box7{
